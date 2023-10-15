@@ -16,6 +16,11 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/evilBetooxx/count.svg" alt="evilBetooxx :: Visitor's Count" /></p>
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
