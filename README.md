@@ -28,8 +28,17 @@
   </a>
 </p>
 
-<a href="https://github.com/evilBetooxx" align="center">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evilBetooxx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=evilBetooxx&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/evilBetooxx">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evilBetooxx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </td>
+      <td align="center">
+        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=evilBetooxx&layout=compact&langs_count=8&theme=algolia"/>
+      </td>
+    </tr>
+  </table>
 </a>
+
 
