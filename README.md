@@ -1,14 +1,14 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<h1 align="center">Who am I?<h1/>
+# Who Am I?
 
-  ```python
+  ``` python
   class WhoAmI:
     user = 'Alberto Avendaño'
     current_edu = "Universidad Politécnica de Chiapas"
     currently_learning = "Javascript"
     fun_fact = "I hate onions"
-    hobbies = [
+    hobbies = [	
         'Music',
         'Chilling',
         'Gaming',
@@ -23,9 +23,13 @@
 
     @staticmethod
     def Ambitions():
-        return ["Become a Software Engineer", "Finish My Projects"]
-	
+        return [
+	    "Become a Data Analyst",
+	    "Finish My Projects"
+	]
  ```
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
