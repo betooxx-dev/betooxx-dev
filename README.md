@@ -16,9 +16,6 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/evilBetooxx/count.svg" alt="evilBetooxx :: Visitor's Count" /></p>
 
 
 <div id="user-content-toc">
@@ -33,6 +30,8 @@
   </a>
 </p>
 
+
+
 <a href="https://github.com/evilBetooxx">
   <table>
     <tr>
@@ -46,4 +45,8 @@
   </table>
 </a>
 
+
+
+<h3 align="center">Visitor's count :eyes:</h3>
+<p align="center"><img src="https://profile-counter.glitch.me/evilBetooxx/count.svg" alt="evilBetooxx :: Visitor's Count" /></p>
 
