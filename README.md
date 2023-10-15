@@ -1,4 +1,31 @@
-### Hi there 👋
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+<h1 align="center">Who am I?<h1/>
+
+  ```python
+  class WhoAmI:
+    user = 'Alberto Avendaño'
+    current_edu = "Universidad Politécnica de Chiapas"
+    currently_learning = "Javascript"
+    fun_fact = "I hate onions"
+    hobbies = [
+        'Music',
+        'Chilling',
+        'Gaming',
+        'Chess',
+        'Reading',
+        'Meditation'
+    ]
+
+    @staticmethod
+    def getCity():
+        return "Comitán de Domínguez, Chiapas, México"
+
+    @staticmethod
+    def Ambitions():
+        return ["Become a Software Engineer", "Finish My Projects"]
+	
+ ```
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
