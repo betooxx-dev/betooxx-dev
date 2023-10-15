@@ -8,14 +8,18 @@
     current_edu = "Universidad Politécnica de Chiapas"
     currently_learning = "Javascript"
     fun_fact = "I hate onions"
-    hobbies = [	
-        'Music',
-        'Chilling',
-        'Gaming',
-        'Chess',
-        'Reading',
-        'Meditation'
-    ]
+
+                \||/           	   hobbies = [	
+                |  @___oo			'Music',                            
+      /\  /\   / (__,,,,|			'Chess',                            
+     ) /^\) ^\/ _)                        'Gaming',        
+     )   /^\/   _)                  	'Reading',
+     )   _ /  / _)                 	'Meditation'                  
+ /\  )/\/ ||  | )_)                      'Chilling',            
+<  >      |(,,) )__)			]
+ ||      /    \)___)\			
+ | \____(      )___) )___		
+  \______(_______;;; __;;;		
 
     @staticmethod
     def getCity():
