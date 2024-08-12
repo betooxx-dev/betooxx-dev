@@ -1,71 +1,52 @@
-# Who Am I?
+# ¿Quién soy?
 
-  ``` python
-  class WhoAmI:
-    user = 'Alberto Avendaño'
-    current_edu = "Universidad Politécnica de Chiapas"
-    currently_learning = "Javascript"
-    fun_fact = "I hate onions"
+```python
+class SobreAlberto:
+    nombre = 'Alberto Avendaño'
+    educacion = "Universidad Politécnica de Chiapas"
+    aprendiendo = "JavaScript"
+    dato_curioso = "Odio las cebollas"
 
-                \||/           	   hobbies = [	
-                |  @___oo			'Music',                            
-      /\  /\   / (__,,,,|			'Chess',                            
-     ) /^\) ^\/ _)                        'Gaming',        
-     )   /^\/   _)                  	'Reading',
-     )   _ /  / _)                 	'Meditation'                  
- /\  )/\/ ||  | )_)                      'Chilling',            
-<  >      |(,,) )__)			]
- ||      /    \)___)\			
- | \____(      )___) )___		
-  \______(_______;;; __;;;		
+    pasatiempos = [
+        'Música',
+        'Ajedrez',
+        'Videojuegos',
+        'Lectura',
+        'Meditación',
+    ]
 
     @staticmethod
-    def getCity():
+    def ubicacion():
         return "Comitán de Domínguez, Chiapas, México"
 
     @staticmethod
-    def Ambitions():
+    def objetivos():
         return [
-	    "Become a Data Analyst",
-	    "Finish My Projects"
-	]
- ```
+            "Convertirme en Analista de Datos",
+            "Alcanzar mis metas"
+        ]
+```
 
+## 🌐 Conéctate conmigo
 
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/alberto-avenda%C3%B1o-2370aa282/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/albertof4in/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/albertooav/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/albertof4in" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alberto-avenda%C3%B1o-2370aa282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/albertof4in/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/albertooav/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/albertof4in" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://twitter.com/TuUsuarioDeTwitter" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/TuCanalDeYouTube" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
+## 🛠️ Tecnologías que domino
 
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,express,figma,nestjs,firebase,github,html,idea,java,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,php,laravel&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,docker,express,figma,nestjs,firebase,github,html,java,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,&perline=8" />
 </p>
 
+## 📊 Mis estadísticas de GitHub
 
-
-<a href="https://github.com/betooxx-dev">
+  <a href="https://github.com/betooxx-dev">
   <div align="center">
     <table>
         <tr>
@@ -90,17 +71,15 @@
 </div>
 </a>
 
-
-
-<h3 align="center">Visitor's count :eyes:</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/betooxx-dev/count.svg" alt="betooxx-dev :: Visitor's Count" /></p>
-
-
+## 👁️ Contador de visitas
 
 <p align="center">
-  <a href="https://github.com/evilBetooxx">
-    <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
-  </a>
+  <img src="https://profile-counter.glitch.me/betooxx-dev/count.svg" alt="Contador de visitas" />
 </p>
 
+## 🐍 Gráfico de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Gráfico de contribuciones" />
+</p>
 
