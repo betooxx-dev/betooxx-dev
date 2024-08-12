@@ -65,24 +65,24 @@
 
 
 
-<a href="https://github.com/evilBetooxx">
+<a href="https://github.com/betooxx-dev">
   <div align="center">
     <table>
         <tr>
             <td>
                 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-                    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evilBetooxx&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Tus estadísticas de GitHub" />
+                    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=betooxx-dev&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Tus estadísticas de GitHub" />
                 </a>
                 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-                    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evilBetooxx&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Tus estadísticas de GitHub" />
+                    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=betooxx-dev&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Tus estadísticas de GitHub" />
                 </a>
             </td>
             <td>
                 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-                    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evilBetooxx&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Tus estadísticas de lenguajes de programación" />
+                    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=betooxx-dev&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Tus estadísticas de lenguajes de programación" />
                 </a>
                 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-                    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evilBetooxx&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Tus estadísticas de lenguajes de programación" />
+                    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=betooxx-dev&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Tus estadísticas de lenguajes de programación" />
                 </a>
             </td>
         </tr>
@@ -93,7 +93,7 @@
 
 
 <h3 align="center">Visitor's count :eyes:</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/evilBetooxx/count.svg" alt="evilBetooxx :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/betooxx-dev/count.svg" alt="betooxx-dev :: Visitor's Count" /></p>
 
 
 
