@@ -6,7 +6,6 @@
 
 <p align="center">
   <em>Estudiante de la Universidad Politécnica de Chiapas - Chiapas, México 🇲🇽</em>
-  me da miedo la guerra
 </p>
 
 <details>
