@@ -1,10 +1,6 @@
 <div align="center">
 
-  <h1>
-    Hola, soy Alberto Avendaño
-    <br/>
-    <a href="https://github.com/betooxx-dev">@betooxx.dev</a>
-  </h1>
+  <h1>    Hola, soy Alberto Avendaño  </h1>
   
   <h3>
     Full-Stack orientado a datos y ciberseguridad. Construyo productos web con foco en seguridad, rendimiento, DX y analítica aplicable.
