@@ -3,11 +3,11 @@
   <h1>    Hola, soy Alberto Avendaño  </h1>
   
   <h3>
-    Full-Stack orientado a datos y ciberseguridad. Construyo productos web con foco en seguridad, rendimiento, DX y analítica aplicable.
+    Desarrollador Full-Stack.
   </h3>
 
   <p>
-    Comitán de Domínguez, Chiapas, México · Egresado de la Universidad Politécnica de Chiapas
+    Comitán de Domínguez, Chiapas, México · Universidad Politécnica de Chiapas
   </p>
   
   <p>
@@ -24,21 +24,6 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
-
----
-
-### Actualmente
-
-<p>Profundizando en <strong>Python</strong> para aplicaciones de Machine Learning y Pentesting.</p>
-
----
-
-### Proyectos Destacados
-
-<br/>
-<p>🏗️ <strong>¡En desarrollo!</strong></p>
-<p>Pronto agregaré aquí proyectos personales interesantes.</p>
-<br/>
 
 ---
 
