@@ -33,6 +33,4 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nest,python,java,cpp,postgres,mysql,mongodb,docker,aws,git,linux,go,dart,kotlin&perline=10" alt="Tech stack icons">
 </p>
 
----
-
 </div>
